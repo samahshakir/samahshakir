@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a **Full Stack Engineer** with 3+ years of experience building scalable microservices and AI-powered products. I specialize in the **Python** and **JavaScript** ecosystems, with deep expertise in **Agentic AI, LLM orchestration**, and **cloud architecture on AWS**.
 
@@ -28,7 +28,7 @@ class Samah:
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -69,13 +69,13 @@ class Samah:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Cognify AI App
+### Cognify AI App
 **React Native · OpenAI API · Python**
 
 A personal content generation engine powered by Generative AI. Achieved a **4.5/5 rating** from 200+ beta testers for intuitive UX and response accuracy.
@@ -83,7 +83,7 @@ A personal content generation engine powered by Generative AI. Achieved a **4.5/
 </td>
 <td width="50%">
 
-### 🏆 CredRep *(Award-Winning)*
+### CredRep *(Award-Winning)*
 **Solidity · Node.js · React · Blockchain**
 
 A decentralized reputation platform that won the **State-sponsored Technology Innovation Award** (Govt. of Karnataka) for innovative use of smart contracts in trust verification.
@@ -101,7 +101,7 @@ An omnichannel customer support system consolidating 5 channels (WhatsApp, Email
 </td>
 <td width="50%">
 
-### 📊 ERP NXT
+### ERP NXT
 **ASP.NET Core · MySQL · Chart.js**
 
 A comprehensive accounting management system featuring real-time financial data visualization and automated reporting for SMBs.
@@ -112,7 +112,7 @@ A comprehensive accounting management system featuring real-time financial data 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -123,7 +123,7 @@ A comprehensive accounting management system featuring real-time financial data 
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 🔹 **AI Agents & AI Architecture** – Vanderbilt University (2025)
 🔹 **RAG and Agentic AI** – IBM (2025)
@@ -132,7 +132,7 @@ A comprehensive accounting management system featuring real-time financial data 
 
 ---
 
-## 💼 Experience Timeline
+## Experience Timeline
 
 ```
 🔵 Feb 2025 – Present   →  Full Stack Developer @ Lubab CIT Company (Saudi Arabia)
